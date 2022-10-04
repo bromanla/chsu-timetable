@@ -1,0 +1,9 @@
+# Compiled output
+node_modules
+
+# Editor directories and files
+.idea
+.vscode
+
+# Local env files
+.env

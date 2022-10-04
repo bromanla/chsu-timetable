@@ -1,0 +1,11 @@
+{
+  "name": "chsu-timetable",
+  "version": "0.2.0",
+  "description": "Bot for getting the class schedule of your study group",
+  "author": "Roman <bromanla.json@gmail.com>",
+  "private": true,
+  "main": "./src/index.js",
+  "devDependencies": {
+    "dotenv": "^16.0.3"
+  }
+}
